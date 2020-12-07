@@ -13,7 +13,7 @@ spec:
         app: netease-unblock
     spec:
       containers:
-      - image: careywang/netease-unblock:latest
+      - image: careywong/neteaseunblock:latest
         name: netease-unblock
 
 ---
